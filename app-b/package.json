@@ -1,0 +1,7 @@
+{
+  "name": "app-b",
+  "main": "index.ts",
+  "dependencies": {
+    "@monorepo-a/app-a": "link:@monorepo-a/app-a"
+  }
+}
