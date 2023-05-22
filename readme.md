@@ -3,7 +3,7 @@ Running bun link in a package within a workspace (monorepo-a/packages/app-a)
 # in monorepo-a/packages/app-a
 bun link
 ```
-```json
+```ts
 // in app-b package.json
 {
   ...
