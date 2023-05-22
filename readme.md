@@ -18,3 +18,7 @@ bun link
 
 This does not link correctly. 
 `app-b/node_modules/@monorepo-a/app-a` is linked to the workspace (monorepo-a) instead of the package.
+
+cannot import `@monorepo-a/app-a` from `app-b`
+
+![](Screenshot%202023-05-22%20000956.png)
